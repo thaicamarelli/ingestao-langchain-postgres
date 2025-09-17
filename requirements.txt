@@ -1,0 +1,11 @@
+backports.tarfile==1.2.0
+grpcio-status==1.75.0
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+langchain==0.3.27
+langchain-google-genai==2.1.12
+langchain-openai==0.3.33
+pip-chill==1.0.3
+platformdirs==4.2.2
+python-dotenv==1.1.1
+tomli==2.0.1
