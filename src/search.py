@@ -1,0 +1,1 @@
+# buscar 10 resultados mais relevantes no banco
